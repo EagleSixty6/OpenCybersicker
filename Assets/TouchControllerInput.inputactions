@@ -1,0 +1,76 @@
+{
+    "name": "TouchControllerInput",
+    "maps": [
+        {
+            "name": "TouchController",
+            "id": "8be8aeb7-deaa-4650-8305-ae7aa7ba7738",
+            "actions": [
+                {
+                    "name": "Faster",
+                    "type": "Button",
+                    "id": "045d1181-4a16-4bdb-a285-9d1618006073",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "EmergencyStop",
+                    "type": "Button",
+                    "id": "ff5228a2-4f84-42ae-8596-e89a55018b73",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a6e59b1a-9422-4d58-b308-d1d648041671",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Faster",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ff43d2d9-4d36-4c9d-8bf7-477482d06664",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Faster",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e905dbd7-8f1b-4e19-9637-88b121e818a1",
+                    "path": "<XRController>{LeftHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "EmergencyStop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cc986c7d-d055-4df0-a9ed-35fb87e7d0d1",
+                    "path": "<XRController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "EmergencyStop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

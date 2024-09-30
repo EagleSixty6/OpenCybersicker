@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: dce2b55fc18698f498fbb09441a4bb6c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmChair.000
+    100002: ArmChair.001
+    100004: BackBar
+    100006: Body
+    100008: //RootNode
+    100010: Camera
+    100012: Circle.001
+    100014: FrontBar
+    100016: LeftBackLight
+    100018: LeftBackRim
+    100020: LeftFrontLight
+    100022: LeftFrontRim
+    100024: Plane.003
+    100026: RightBackLight
+    100028: RightBackRim
+    100030: RightFrontLight
+    100032: RightFrontRim
+    400000: ArmChair.000
+    400002: ArmChair.001
+    400004: BackBar
+    400006: Body
+    400008: //RootNode
+    400010: Camera
+    400012: Circle.001
+    400014: FrontBar
+    400016: LeftBackLight
+    400018: LeftBackRim
+    400020: LeftFrontLight
+    400022: LeftFrontRim
+    400024: Plane.003
+    400026: RightBackLight
+    400028: RightBackRim
+    400030: RightFrontLight
+    400032: RightFrontRim
+    2000000: Camera
+    2100000: FabricBlue.001
+    2100002: DDRHolz.001
+    2100004: Material.001
+    2100006: Material.002
+    2100008: Metal
+    2100010: Luz
+    2100012: Luz.001
+    2300000: ArmChair.000
+    2300002: ArmChair.001
+    2300004: BackBar
+    2300006: Body
+    2300008: Circle.001
+    2300010: FrontBar
+    2300012: LeftBackLight
+    2300014: LeftBackRim
+    2300016: LeftFrontLight
+    2300018: LeftFrontRim
+    2300020: Plane.003
+    2300022: RightBackLight
+    2300024: RightBackRim
+    2300026: RightFrontLight
+    2300028: RightFrontRim
+    3300000: ArmChair.000
+    3300002: ArmChair.001
+    3300004: BackBar
+    3300006: Body
+    3300008: Circle.001
+    3300010: FrontBar
+    3300012: LeftBackLight
+    3300014: LeftBackRim
+    3300016: LeftFrontLight
+    3300018: LeftFrontRim
+    3300020: Plane.003
+    3300022: RightBackLight
+    3300024: RightBackRim
+    3300026: RightFrontLight
+    3300028: RightFrontRim
+    4300000: ArmChair.000
+    4300002: Plane.003
+    4300004: Circle.001
+    4300006: ArmChair.001
+    4300008: Body
+    4300010: BackBar
+    4300012: FrontBar
+    4300014: RightFrontLight
+    4300016: RightFrontRim
+    4300018: LeftFrontLight
+    4300020: LeftFrontRim
+    4300022: RightBackLight
+    4300024: RightBackRim
+    4300026: LeftBackLight
+    4300028: LeftBackRim
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
