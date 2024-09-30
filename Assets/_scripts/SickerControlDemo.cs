@@ -58,6 +58,12 @@ public class SickerControlDemo : SickerControl
         if (!studyRuns && FasterAction.WasPressedThisFrame())
         {
             studyRuns = true;
+            speedPercentage += 0.04f;
+            firstLevelSpeed = 200f * speedPercentage;
+            secondLevelSpeed = 100f * speedPercentage;
+            thirdLevelSpeed = 50f * speedPercentage;
+            bobSpeed = 5f * speedPercentage;
+            FindAnyObjectByType<AudioSource>().Play();
         }
     }
 }
